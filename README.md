@@ -1,20 +1,20 @@
 # Cloud DevOps Engineer
-###### E-mail: chaitanyalande09@gmail.com  ||  Mobile :+918208590206
+#### E-mail: chaitanyalande09@gmail.com  ||   Mobile :+918208590206
 
 ## Profile
 DevOps professional with hands-on experience in optimizing and streamlining IT operations.
 
 ## Technical Skills 
-- Languages  | Shell Scripting, YAML, GROOVY								     	
-- Cloud Technology	| AWS (EC2, VPC, IAM, RDS, S3, EFS, CloudWatch, CloudTrail, SNS, EKS, Route53)
-- Container Technologies | Docker, Kubernetes
-- CI/CD | Jenkins
-- Version Control System | GIT, GITHUB
-- Build Tools | Maven
-- IAAC | Terraform
-- Configuration Management | Ansible
-- Database | MYSQL(RDS)
-- Monitoring Tools | CloudWatch, CloudTrail, Prometheus, Grafana
+- Languages|Shell Scripting, YAML, GROOVY								     	
+- Cloud Technology|AWS (EC2, VPC, IAM, RDS, S3, EFS, CloudWatch, CloudTrail, SNS, EKS, Route53)
+- Container Technologies|Docker, Kubernetes
+- CI/CD|Jenkins
+- Version Control System|GIT, GITHUB
+- Build Tools|Maven
+- IAAC|Terraform
+- Configuration Management|Ansible
+- Database|MYSQL(RDS)
+- Monitoring Tools|CloudWatch, CloudTrail, Prometheus, Grafana
 
 
 ## Work Experience
@@ -36,5 +36,6 @@ DevOps professional with hands-on experience in optimizing and streamlining IT o
 
 
 ## Education
-- B.Tech | Sant Gadge Baba Amravati University, Amravati, Maharashtra State, India		- HSC	| Maharashtra State Board
+- B.Tech | Sant Gadge Baba Amravati University, Amravati, Maharashtra State, India
+- HSC	| Maharashtra State Board
 - SSC | Maharashtra State Board 
