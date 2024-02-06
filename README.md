@@ -5,9 +5,12 @@
 DevOps professional with hands-on experience in optimizing and streamlining IT operations.
 
 ## Technical Skills 
-- Languages || Shell Scripting, YAML, GROOVY								     	
-- Cloud Technology || AWS (EC2, VPC, IAM, RDS, S3, EFS, CloudWatch, CloudTrail, SNS, EKS, Route53)
-- Container Technologies || Docker, Kubernetes
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+| Languages | Shell Scripting, YAML, GROOVY |								     	
+| Cloud Technology | AWS (EC2, VPC, IAM, RDS, S3, EFS, CloudWatch, CloudTrail, SNS, EKS, Route53) |
+| Container Technologies | Docker, Kubernetes |
 - CI/CD || Jenkins
 - Version Control System || GIT, GITHUB
 - Build Tools || Maven
