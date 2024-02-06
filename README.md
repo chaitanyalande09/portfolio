@@ -18,7 +18,7 @@ DevOps professional with hands-on experience in optimizing and streamlining IT o
 
 
 ## Work Experience
-**Cloud DevOps engineer @ Textcode technologies Pvt Ltd**
+**Cloud DevOps Engineer @ Textcode Technologies Pvt Ltd**
 
 - Experience with various AWS services such as IAM, EC2, VPC, S3, EFS, RDS, Route53,   CloudWatch, CloudTrail
 - Implemented elastic load balancing and auto scaling for higher availability and fault tolerance
